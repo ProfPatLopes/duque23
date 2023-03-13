@@ -1,0 +1,56 @@
+.img{
+    width: 100px;    
+}
+.img4{
+    width: 120px;    
+}
+.img2{
+    width: 30%;    
+}
+.img3{
+    width: 150px;    
+}
+body{
+    background-color:rgba(160, 149, 100);
+    font-family: 'Lucida Sans';
+    font-size: small; 
+    color: #fdfdfd;
+    text-align: center;
+    display: inline;
+    font-size: 14px;
+}
+h3{
+    
+    font-family: 'Lucida Sans';
+    font-size: small; 
+    color: #fdfdfd;
+    text-align: center;
+    display: inline;
+    font-size: 14px;
+       
+}
+.linha {
+    font-family: 'Lucida Sans';
+    font-size: small; 
+    font-size: 12px;
+    background-color:rgb(66, 56, 10);
+}
+.menu {
+    font-family: 'Lucida Sans';
+    font-size: small; 
+    font-size: 12px;
+    background-color:rgb(66, 56, 10);
+}
+.lista {
+    font-family: 'Lucida Sans';
+    font-size: small; 
+    text-align: left;
+    font-size: 12px;
+    color:rgb(66, 56, 10);
+}
+.bloco {
+    display: block;
+}
+.itens {
+    background-color: rgb(211, 204, 174);
+}
