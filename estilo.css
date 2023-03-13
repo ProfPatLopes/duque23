@@ -4,11 +4,11 @@
 .img4{
     width: 120px;    
 }
+.img2{
+    width: 20%;    
+}
 .img5{
     width: 25%;    
-}
-.img2{
-    width: 30%;    
 }
 .img3{
     width: 150px;    
@@ -38,14 +38,12 @@ h3{
     font-size: 12px;
     background-color:rgb(66, 56, 10);
 }
+
 .menu {
     font-family: 'Lucida Sans';
     font-size: small; 
     font-size: 12px;
     background-color:rgb(66, 56, 10);
-}
-.apre {
-    color:rgb(66, 56, 10);
 }
 .lista {
     font-family: 'Lucida Sans';
@@ -59,4 +57,7 @@ h3{
 }
 .itens {
     background-color: rgb(211, 204, 174);
+}
+.apre {
+color:rgb(66, 56, 10);
 }
