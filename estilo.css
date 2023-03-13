@@ -4,6 +4,9 @@
 .img4{
     width: 120px;    
 }
+.img5{
+    width: 25%;    
+}
 .img2{
     width: 30%;    
 }
@@ -40,6 +43,12 @@ h3{
     font-size: small; 
     font-size: 12px;
     background-color:rgb(66, 56, 10);
+}
+.apre {
+    font-family: 'Lucida Sans';
+    font-size: small;    
+    font-size: 12px;
+    color:rgb(66, 56, 10);
 }
 .lista {
     font-family: 'Lucida Sans';
