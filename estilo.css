@@ -1,18 +1,11 @@
-.img{
+.avataraluno{
     width: 100px;    
 }
-.img4{
-    width: 120px;    
-}
-.img2{
-    width: 20%;    
-}
-.img5{
+
+.prof{
     width: 25%;    
 }
-.img3{
-    width: 150px;    
-}
+
 body{
     background-color:rgba(160, 149, 100);
     font-family: 'Lucida Sans';
