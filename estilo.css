@@ -1,5 +1,7 @@
 .avataraluno{
-    width: 25px;    
+    
+    width: auto; 
+ max-height: 25px;    
 }
 
 .prof{
