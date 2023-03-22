@@ -59,4 +59,12 @@ h3{
 }
 .apre {
 color:rgb(66, 56, 10);
+
+position: absolute;
+width: 1440px;
+height: 114px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 }
