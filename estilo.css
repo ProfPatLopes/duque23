@@ -50,6 +50,11 @@ background: linear-gradient(180deg, rgba(66, 56, 10, 0) 0%, #42380A 57.29%);
     font-family: 'Lucida Sans';
     font-size: small; 
     font-size: 12px;
+    position: absolute;
+    width: 1440px;
+    height: 27px;
+    left: 0px;
+    top: 119px;
     background-color:rgb(66, 56, 10);
 }
 .lista {
