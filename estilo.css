@@ -36,14 +36,13 @@ h3{
     font-size: small; 
     font-size: 12px;
     /*background-color:rgb(66, 56, 10);*/
-
+    color:rgb(66, 56, 10);
     position: absolute;
-width: 1440px;
-height: 114px;
-left: 0px;
-top: 910px;
-
-background: linear-gradient(180deg, rgba(66, 56, 10, 0) 0%, #42380A 57.29%);
+    width: 1440px;
+    height: 114px;
+    left: 0px;
+    top: 910px;
+    background: linear-gradient(180deg,  rgba(66, 56, 10, 0) 100%, #42380A 37.5%);
 }
 
 .menu {
@@ -72,13 +71,11 @@ background: linear-gradient(180deg, rgba(66, 56, 10, 0) 0%, #42380A 57.29%);
     position: absolute;
 }
 .apre {
-color:rgb(66, 56, 10);
-
-position: absolute;
-width: 1440px;
-height: 114px;
-left: 0px;
-top: 0px;
-
-background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
+    color:rgb(66, 56, 10);
+    position: absolute;
+    width: 1440px;
+    height: 114px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 }
