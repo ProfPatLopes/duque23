@@ -69,6 +69,7 @@ background: linear-gradient(180deg, rgba(66, 56, 10, 0) 0%, #42380A 57.29%);
 }
 .itens {
     background-color: rgb(211, 204, 174);
+    position: absolute;
 }
 .apre {
 color:rgb(66, 56, 10);
