@@ -35,7 +35,15 @@ h3{
     font-family: 'Lucida Sans';
     font-size: small; 
     font-size: 12px;
-    background-color:rgb(66, 56, 10);
+    /*background-color:rgb(66, 56, 10);*/
+
+    position: absolute;
+width: 1440px;
+height: 114px;
+left: 0px;
+top: 910px;
+
+background: linear-gradient(180deg, rgba(66, 56, 10, 0) 0%, #42380A 57.29%);
 }
 
 .menu {
