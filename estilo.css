@@ -52,16 +52,19 @@ h3{
 }
 .lista {
     font-family: 'Lucida Sans';
-    font-size: small; 
-    text-align: left;
-    font-size: 12px;
+    font-size: small;     
     color:rgb(66, 56, 10);
+    position: absolute;
+    width: 1440px;
+    height: 114px;
+    left: 0px;
+    top: 1020px;
 }
 .bloco {
     display: block;
 }
 
-.footer{
+.rodape{
 
     position: absolute;
     width: 1440px;
