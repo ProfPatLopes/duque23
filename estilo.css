@@ -82,7 +82,13 @@ h3{
 
 .rodape{
 
-    
+    position: absolute;
+width: 1440px;
+height: 114px;
+left: 0px;
+top: 909px;
+
+background: linear-gradient(180deg, rgba(66, 56, 10, 0) 100%,    #42380A 37.5% );
 
 }
 .itens {
