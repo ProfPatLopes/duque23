@@ -5,32 +5,35 @@
 .prof{
     /*width: 25%;   */
     position: absolute;
-width: 111px;
-height: 117px;
-left: 73px;
-top: -3px;
+    width: 111px;
+    height: 117px;
+    left: 73px;
+    top: -3px;
 
 }
+
 .oi {
     position: absolute;
-width: 1000px;
-height: 23px;
-left: 287px;
-top: 32px;
+    width: 1000px;
+    height: 23px;
+    left: 287px;
+    top: 32px;
 
-font-family: 'Inter';
-font-style: italic;
-font-weight: 400;
-font-size: 24px;
-line-height: 29px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
 
-color: #FFFFFF;
+    color: #FFFFFF;
 
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
+
 .body{
     display: inline;
 }
+
 h3{
     
     font-family: 'Lucida Sans';
@@ -41,6 +44,7 @@ h3{
     font-size: 14px;
        
 }
+
 .linha {
     font-family: 'Lucida Sans';
     font-size: small; 
@@ -66,6 +70,7 @@ h3{
     top: 119px;
     background-color:rgb(66, 56, 10);
 }
+
 .lista {
     font-family: 'Lucida Sans';
     font-size: small;     
@@ -76,6 +81,7 @@ h3{
     left: 0px;
     top: 1020px;
 }
+
 .bloco {
     display: block;
 }
@@ -83,22 +89,44 @@ h3{
 .rodape{
 
     position: absolute;
-width: 1440px;
-height: 114px;
-left: 0px;
-top: 909px;
+    width: 1440px;
+    height: 114px;
+    left: 0px;
+    top: 909px;
 
-background: linear-gradient(180deg, rgba(66, 56, 10, 0) 100%,    #42380A 37.5% );
+    background: linear-gradient(180deg, rgba(66, 56, 10, 0) 100%,    #42380A 37.5% );
 
 }
+
+.fim{
+    position: absolute;
+    width: 371px;
+    height: 29px;
+    left: calc(50% - 371px/2 - 0.5px);
+    top: calc(50% - 29px/2 + 464.5px);
+
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
 .itens {
    
-position: absolute;
-width: 1454px;
-height: 762px;
-left: -6px;
-top: 147px; 
+    position: absolute;
+    width: 1454px;
+    height: 762px;
+    left: -6px;
+    top: 147px; 
 }
+
 .apre {
     color:rgb(66, 56, 10);
     position: absolute;
