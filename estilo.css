@@ -1,11 +1,11 @@
 .apre {
-    color:rgb(66, 56, 10);
+    color:#012379;
     position: absolute;
 width: 1440px;
 height: 114px;
 left: 0px;
 top: 0px;
-    background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
+background: linear-gradient(180deg, #012379 0%, #70BAFF 100%);
 }
 .prof{
     position: absolute;
@@ -56,13 +56,13 @@ h3{
     font-size: small; 
     font-size: 12px;
     /*background-color:rgb(66, 56, 10);*/
-    color:rgb(66, 56, 10);
+    color:#012379;
     position: absolute;
     width: 1440px;
     height: 114px;
     left: 0px;
     top: 910px;
-    background: linear-gradient(180deg,  rgba(66, 56, 10, 0) 100%, #42380A 37.5%);
+    background: linear-gradient(180deg, #70BAFF 0%, #012379 100%);
 }
 
 .menu {
@@ -76,7 +76,8 @@ h3{
     left: 0px;
     top: 90px;
     
-    background: #63562B;
+    background:#012379;
+    ;
 
 }
 
@@ -140,14 +141,13 @@ h3{
     font-size: small; 
     text-align: left;
     font-size: 12px;
-    color:rgb(66, 56, 10);
+    color:#012379;
     
     position: absolute;
+    background: linear-gradient(180deg, #012379 0%, #70BAFF 100%);
     width: 1440px;
     height: 114px;
-    left: 1px;
-    top: 625px;  
-    background: linear-gradient(180deg, rgba(99, 86, 43, 0) 0%, #63562B 100%);
-    
+    left: -2px;
+    top: 813px;
     }
 
