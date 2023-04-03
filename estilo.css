@@ -66,18 +66,17 @@ h3{
 }
 
 .menu {
-    font-family: 'Lucida Sans';
-    font-size: small; 
-    font-size: 12px;
-    
-    position: absolute;
-    width: 1024px;
-    height: 25px;
-    left: 0px;
-    top: 90px;
-    
+  
+        font-family: 'Lucida Sans';
+        font-size: small; 
+        font-size: 12px;
+        position: absolute;
+        width: 1440px;
+        height: 27px;
+        left: 0px;
+        top: 119px;
     background:#012379;
-    ;
+    
 
 }
 
