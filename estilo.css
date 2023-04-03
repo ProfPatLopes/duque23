@@ -8,12 +8,11 @@
     background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 }
 .prof{
-    /*width: 25%;   */
-    position: absolute;
-    width: 111px;
-    height: 117px;
-    left: 73px;
-    top: -3px;
+       position: absolute;
+    width: 99px;
+    height: 63px;
+    left: 218px;
+    top: 14px;
 
 }
 
@@ -70,12 +69,15 @@ h3{
     font-family: 'Lucida Sans';
     font-size: small; 
     font-size: 12px;
+    
     position: absolute;
-    width: 1440px;
-    height: 27px;
+    width: 1024px;
+    height: 25px;
     left: 0px;
-    top: 119px;
-    background-color:rgb(66, 56, 10);
+    top: 90px;
+    
+    background: #63562B;
+
 }
 
 .lista {
