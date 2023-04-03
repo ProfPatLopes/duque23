@@ -1,7 +1,12 @@
-.avataraluno{
-    width:  100px;    
+.apre {
+    color:rgb(66, 56, 10);
+    position: absolute;
+    width: 1440px;
+    height: 114px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 }
-
 .prof{
     /*width: 25%;   */
     position: absolute;
@@ -33,7 +38,9 @@
 .body{
     display: inline;
 }
-
+.avataraluno{
+    width:  100px;    
+}
 h3{
     
     font-family: 'Lucida Sans';
@@ -127,12 +134,3 @@ h3{
     top: 147px; 
 }
 
-.apre {
-    color:rgb(66, 56, 10);
-    position: absolute;
-    width: 1440px;
-    height: 114px;
-    left: 0px;
-    top: 0px;
-    background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
-}
