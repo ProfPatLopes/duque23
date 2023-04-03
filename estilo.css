@@ -135,4 +135,19 @@ h3{
     left: -6px;
     top: 147px; 
 }
+.lista{
+    font-family: 'Lucida Sans';
+    font-size: small; 
+    text-align: left;
+    font-size: 12px;
+    color:rgb(66, 56, 10);
+    
+    position: absolute;
+    width: 1440px;
+    height: 114px;
+    left: 1px;
+    top: 625px;  
+    background: linear-gradient(180deg, rgba(99, 86, 43, 0) 0%, #63562B 100%);
+    
+    }
 
