@@ -106,7 +106,9 @@ h3{
     background: linear-gradient(180deg, rgba(66, 56, 10, 0) 100%,    #42380A 37.5% );
 
 }
-
+footer{
+    background:#012379;
+}
 .fim{
     position: absolute;
     width: 371px;
