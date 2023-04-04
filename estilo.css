@@ -35,7 +35,7 @@
 }
 
 .body{
-       background: rgba(1, 35, 121, 0.21);
+       background: #70BAFF;
 }
 .avataraluno{
     width:  100px;    
@@ -101,8 +101,8 @@ footer{
     color:#012379;
     
     position: absolute;
-   
-    background: linear-gradient(180deg, rgba(1, 35, 121, 0.1) 0%, #012379 67.19%);
+    
+    background: linear-gradient(180deg, #70BAFF 100%, #012379 0%);
     width: 1440px;
     height: 114px;
     left: -2px;
