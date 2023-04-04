@@ -69,7 +69,11 @@
 
 footer{
     position: absolute;
-       
+    color:white;
+    font-family: 'Lucida Sans';
+    font-size: small; 
+    font-size: 12px;
+    
         left: -1px;
         top:786px;
         width: 1440px;
