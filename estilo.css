@@ -68,6 +68,7 @@
 }
 
 footer{
+    margin:auto;
     position: absolute;
     color:white;
     font-family: 'Lucida Sans';
