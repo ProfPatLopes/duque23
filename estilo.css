@@ -18,16 +18,16 @@ background: linear-gradient(180deg, #012379 0%, #70BAFF 100%);
 
 .oi {
     position: absolute;
-    width: 1000px;
-    height: 23px;
-    left: 287px;
-    top: 32px;
+    width: 678px;
+    height: 39px;
+    left: 410px;
+    top: 42px;
 
     font-family: 'Inter';
     font-style: italic;
     font-weight: 400;
-    font-size: 24px;
-    line-height: 29px;
+    font-size: 32px;
+    line-height: 39px;
 
     color: #FFFFFF;
 
@@ -66,7 +66,7 @@ h3{
 }
 
 .menu {
-  
+        font-color:white;
         font-family: 'Lucida Sans';
         font-size: small; 
         font-size: 12px;
