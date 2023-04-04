@@ -35,7 +35,7 @@ background: linear-gradient(180deg, #012379 0%, #70BAFF 100%);
 }
 
 .body{
-    display: inline;
+       background: rgba(1, 35, 121, 0.21);
 }
 .avataraluno{
     width:  100px;    
