@@ -102,7 +102,7 @@ footer{
     
     position: absolute;
     
-    background: linear-gradient(180deg, #70BAFF 100%, #012379 0%);
+    background: linear-gradient(180deg, #70BAFF 10%, #012379 63%);
     width: 1440px;
     height: 114px;
     left: -2px;
