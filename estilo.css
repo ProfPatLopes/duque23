@@ -1,11 +1,11 @@
 .apre {
     color:#012379;
     position: absolute;
-width: 1440px;
-height: 114px;
-left: 0px;
-top: 0px;
-background: linear-gradient(180deg, #012379 0%, #70BAFF 100%);
+    width: 1440px;
+    height: 114px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(180deg, #012379 0%, #70BAFF 100%);
 }
 .prof{
     position: absolute;
@@ -40,33 +40,9 @@ background: linear-gradient(180deg, #012379 0%, #70BAFF 100%);
 .avataraluno{
     width:  100px;    
 }
-h3{
-    
-    font-family: 'Lucida Sans';
-    font-size: small; 
-    color: #fdfdfd;
-    text-align: center;
-    display: inline;
-    font-size: 14px;
-       
-}
-
-.linha {
-    font-family: 'Lucida Sans';
-    font-size: small; 
-    font-size: 12px;
-    /*background-color:rgb(66, 56, 10);*/
-    color:#012379;
-    position: absolute;
-    width: 1440px;
-    height: 114px;
-    left: 0px;
-    top: 910px;
-    background: linear-gradient(180deg, #70BAFF 0%, #012379 100%);
-}
 
 .menu {
-        font-color:white;
+        color:white;
         font-family: 'Lucida Sans';
         font-size: small; 
         font-size: 12px;
@@ -91,21 +67,6 @@ h3{
     top: 1020px;
 }
 
-.bloco {
-    display: block;
-}
-
-.rodape{
-
-    position: absolute;
-    width: 1440px;
-    height: 114px;
-    left: 0px;
-    top: 909px;
-
-    background: linear-gradient(180deg, rgba(66, 56, 10, 0) 100%,    #42380A 37.5% );
-
-}
 footer{
     position: absolute;
        
@@ -125,6 +86,7 @@ footer{
     left: -6px;
     top: 147px; 
 }
+
 .lista{
     font-family: 'Lucida Sans';
     font-size: small; 
@@ -138,6 +100,6 @@ footer{
     height: 114px;
     left: -2px;
     top: 813px;
-    }
+}
 
    
