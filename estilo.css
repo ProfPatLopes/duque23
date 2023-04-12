@@ -55,7 +55,9 @@
     
 
 }
-
+.tab-menu{
+    padding: 4px;
+}
 .des{
     position: absolute;
 width: 339px;
