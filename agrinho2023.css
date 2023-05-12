@@ -1,0 +1,178 @@
+.cabec {
+   
+    position: absolute;
+    width: 1440px;
+    height: 229px;
+    left: 0px;
+    top: 0px;
+    
+    background: #16388F;
+}
+
+.cabec-menu-lista {
+    position:absolute;
+    width:300px;
+    left:1000px;
+    padding: 4px;
+}
+
+
+.cabec-menu-lista-item{
+    font-size: 14px;
+    color:#FFFFFF;
+    display: inline-block;
+    margin: 0 16px;    
+}
+
+.cabec-imagem{
+    top:30px;
+    position: absolute;
+    width: 202px;    
+    left: 180px;      
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.cabec-titulo {
+ 
+position: absolute;
+width: 630px;
+height: 124px;
+left:405px;
+font-family: 'Indie Flower';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 93px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.corpo{
+    position: absolute;
+    top:225px;
+width: 1440px;
+height: 651px;
+left: 0px;
+background: linear-gradient(180deg, #16388F 0%, rgba(227, 231, 47, 0.9) 60.42%);
+}
+.estudante {
+    
+    position: absolute;
+    width: 830px;
+    height: 490px;
+    left: 305px;
+    top: 120px; 
+    background: rgba(22, 56, 143, 0.64);
+}
+
+.estudante-todos{
+    display: grid;
+    text-align: center;
+    grid-template-columns: 20% 20% 20% 20%;
+}
+.estudante-categoria1{
+    
+position: absolute;
+width: 223px;
+left: 14px;
+top: -10px;
+
+font-family: 'Indie Flower';
+font-style: normal;
+font-size: 22px;
+color: #edf10f;
+}
+
+.estudante-categoria2{
+    
+    position: absolute;
+    width: 223px;
+    left: 14px;
+    top: 300px;
+    
+    font-family: 'Indie Flower';
+    font-style: normal;
+    font-size: 22px;
+    color: #edf10f;
+    }
+   
+.estudante-categoria3{
+    
+    position: absolute;
+    width: 223px;
+    left: 14px;
+    top: 350px;
+    
+    font-family: 'Indie Flower';
+    font-style: normal;
+    font-size: 22px;
+    color: #edf10f;
+    }
+    .estudante-div{
+        text-align: center;
+        padding: 16px 0;
+    }
+h3{
+    
+    font-family: 'Lucida Sans';
+    font-size: small; 
+    color: #fdfdfd;
+    text-align: center;
+    font-size: 12px;
+       
+}
+
+.scratch{
+    top:300px;
+    position: absolute;
+    width: 200px;
+    left: 50px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+    
+    .cat {
+        position: absolute;
+    width: 221px;
+    height: 225px;
+    left: 18px;
+    top: 400px;
+    
+    
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    
+    }
+    
+    .avataraluno{
+        width:  100px;    
+    }
+    .lnq{
+        width: 22px;
+        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    }
+    
+footer{
+    padding: 4px;
+    position: absolute;
+    margin:auto;
+    left: -1px;
+    top:875px;
+    width: 1433px;
+    background: #8B857B;
+    font-family: 'Indie Flower';
+    font-style: normal;
+    font-size: 16px;
+    color: #FFFFFF;
+    
+    mix-blend-mode: luminosity;
+}
+.lista{
+    left:0px;
+    width:1440px;
+    top:902px;
+    position: absolute;
+    color:#16388F; 
+    background: linear-gradient(180deg, rgba(227, 231, 47, 0.9) 0%, #16388F 100%);
+}
