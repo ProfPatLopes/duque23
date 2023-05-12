@@ -6,7 +6,7 @@
     left: 0px;
     top: 0px;
     
-    background: #16388F;
+    background: #012379;
 }
 
 .cabec-menu-lista {
@@ -56,7 +56,8 @@ color: #FFFFFF;
 width: 1440px;
 height: 651px;
 left: 0px;
-background: linear-gradient(180deg, #16388F 0%, rgba(227, 231, 47, 0.9) 60.42%);
+
+background: linear-gradient(180deg, #012379 0%, rgba(112, 186, 255, 0.9) 100%);
 }
 .estudante {
     
@@ -174,5 +175,6 @@ footer{
     top:902px;
     position: absolute;
     color:#16388F; 
-    background: linear-gradient(180deg, rgba(227, 231, 47, 0.9) 0%, #16388F 100%);
+   
+    background: linear-gradient(180deg, rgba(112, 186, 255, 0.9) 0%, #012379 100%);
 }
