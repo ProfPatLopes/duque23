@@ -194,7 +194,5 @@ footer{
     top:902px;
     position: absolute;
     color:#16388F; 
-   
-    
-    background: linear-gradient(180deg, #FFE801 0%, rgba(81, 157, 228, 0.88) 12.76%, #012379 100%);
-}
+    background: linear-gradient(180deg, #FFE801 0%, rgba(81, 157, 228, 0.88) 51.3%, #012379 100%);
+    }
