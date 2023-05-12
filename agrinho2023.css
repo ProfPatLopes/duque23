@@ -66,7 +66,8 @@ width: 1440px;
 height: 651px;
 left: 0px;
 
-background: linear-gradient(180deg, #012379 0%, rgba(112, 186, 255, 0.9) 100%);
+
+background: linear-gradient(180deg, #012379 0%, rgba(81, 157, 228, 0.88) 90.89%, #FFE801 100%);
 }
 .corpo-imagem1{
     top:-70px;
@@ -194,5 +195,6 @@ footer{
     position: absolute;
     color:#16388F; 
    
-    background: linear-gradient(180deg, rgba(112, 186, 255, 0.9) 0%, #012379 100%);
+    
+    background: linear-gradient(180deg, #FFE801 0%, rgba(81, 157, 228, 0.88) 12.76%, #012379 100%);
 }
