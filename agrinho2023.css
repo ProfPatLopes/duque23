@@ -42,16 +42,16 @@ body{
 
 
 .cabec-titulo {
- 
+  
 position: absolute;
-width: 630px;
-height: 124px;
-left:405px;
+width: 750px;
+
+left:325px;
 font-family: 'Indie Flower';
 font-style: normal;
 font-weight: 400;
-font-size: 64px;
-line-height: 93px;
+font-size: 58px;
+line-height: 90px;
 display: flex;
 align-items: center;
 text-align: center;
@@ -95,43 +95,54 @@ background: linear-gradient(180deg, #012379 0%, rgba(81, 157, 228, 0.88) 90.89%,
 }
 .estudante-categoria1{
     
-position: absolute;
-width: 223px;
-left: 14px;
-top: -10px;
-
-font-family: 'Indie Flower';
-font-style: normal;
-font-size: 22px;
-color: #edf10f;
-}
-
-.estudante-categoria2{
-    
     position: absolute;
     width: 223px;
     left: 14px;
-    top: 300px;
+    top: -10px;
     
     font-family: 'Indie Flower';
     font-style: normal;
     font-size: 22px;
     color: #edf10f;
     }
-   
-.estudante-categoria3{
     
-    position: absolute;
-    width: 223px;
-    left: 14px;
-    top: 350px;
-    
-    font-family: 'Indie Flower';
-    font-style: normal;
-    font-size: 22px;
-    color: #edf10f;
-    }
-    .estudante-div{
+    .estudante-categoria2{
+        
+        position: absolute;
+        width: 223px;
+        left: 14px;
+        top: 100px;
+        
+        font-family: 'Indie Flower';
+        font-style: normal;
+        font-size: 22px;
+        color: #edf10f;
+        }
+       
+    .estudante-categoria3{
+        
+        position: absolute;
+        width: 223px;
+        left: 14px;
+        top: 200px;
+        
+        font-family: 'Indie Flower';
+        font-style: normal;
+        font-size: 22px;
+        color: #edf10f;
+        }
+        .estudante-categoria4{
+        
+            position: absolute;
+            width: 223px;
+            left: 270px;
+            top: 420px;
+            
+            font-family: 'Indie Flower';
+            font-style: normal;
+            font-size: 22px;
+            color: #edf10f;
+            }    .estudante-div{
         text-align: center;
         padding: 16px 0;
     }
