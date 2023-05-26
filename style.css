@@ -1,0 +1,172 @@
+body{
+    width: 1440px;
+    background-color:  #70BAFF ;
+    font-family: 'Lucida Sans';
+    font-size: small; 
+    color: #fdfdfd;
+    text-align: center;
+    display: inline;
+    font-size: 14px;
+}
+.cabec {
+       position: absolute;
+width: 1440px;
+height: 128px;
+left: 0px;
+top: 0px;
+background: linear-gradient(180deg, #012379 0%, #70BAFF 100%);
+/*background: linear-gradient(180deg, #829243 0%, rgba(130, 146, 67, 0) 100%);*/
+}
+.cabec-imagem{
+    position: absolute;
+    width: 111px;
+    height: 117px;
+    left: 303px;
+    top: -3px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
+
+.cabec-apre {
+    position: absolute;
+    width: 678px;
+    height: 39px;
+    left: 410px;
+   
+
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+
+   
+
+    color: #FFFFFF;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+.cabec-lista {
+       
+    
+    width: 1400px;
+    font-family: 'Lucida Sans';
+    font-size: small; 
+    font-size: 14px;
+    position: absolute;
+    
+    height: 27px;
+    left: 0px;
+    top: 114px;
+    background:  #012379;
+
+}
+.cabec-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 14px;
+
+
+    top:125px;
+    color:#FFFFFF;
+    height: 23px;
+    
+    display: inline-block;
+    padding: 4px;
+    margin: 0 16px;
+    
+}
+.desenvolvimento{
+    position: absolute;
+width: 339px;
+height: 46px;
+left: 18px;
+
+
+font-family: 'M PLUS 2';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 46px;
+
+color: #F5F5F5;
+
+border: 1px solid #FFFAFA;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+
+.avataralunop{
+    width: 200px;
+}
+
+.itens {
+    
+    position: absolute;
+    width: 1440px;
+    height: 762px;
+    left: -6px;
+    top: 147px; 
+}
+
+.estudante-todos{
+    display: grid;
+    text-align: center;
+    grid-template-columns: 30% 30% 30% 30% 30% 30%;
+}
+
+.estudante{
+    left:160px;
+    top: 150px;
+    position: absolute;
+    padding: 24px 0;
+}
+.avataraluno{
+    width: 100px;
+}
+
+.estudante-div{
+    text-align: center;
+    padding: 16px 0;
+}
+h3{
+    
+    font-family: 'Lucida Sans';
+    font-size: small; 
+    color: #fdfdfd;
+    text-align: center;
+    font-size: 14px;
+       
+}
+
+footer{
+    padding: 4px;
+    position: absolute;
+    top:787px;
+    width: 1430px;
+    color: white;
+    background:#012379;
+}
+.lista{
+font-family: 'Lucida Sans';
+font-size: small; 
+text-align: left;
+font-size: 12px;
+
+
+position: absolute;
+width: 1440px;
+height: 114px;
+
+left: -2px;
+top: 810px;
+color:#012379;
+    
+position: absolute;
+
+background: linear-gradient(180deg, #70BAFF 10%, #012379 63%);
+/*background: linear-gradient(180deg, rgba(130, 146, 67, 0) 0%, #829243 100%);*/
+}
