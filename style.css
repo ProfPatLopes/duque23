@@ -1,6 +1,6 @@
 body{
     width: 1440px;
-    background: rgba(112, 186, 255, 0.07);
+    background: rgba(112, 186, 255, 0.25);
     font-family: 'Lucida Sans';
     font-size: small; 
     color: #fdfdfd;
@@ -14,7 +14,7 @@ width: 1440px;
 height: 128px;
 left: 0px;
 top: 0px;
-background: linear-gradient(180deg, #012379 0%, rgba(112, 186, 255, 0.48177) 51.82%, rgba(112, 186, 255, 0.07) 100%);
+background: linear-gradient(180deg, #012379 0%, rgba(112, 186, 255, 0.48177) 75.12%, rgba(112, 186, 255, 0.07) 100%);
 }
 .cabec-imagem{
     position: absolute;
@@ -60,6 +60,7 @@ background: linear-gradient(180deg, #012379 0%, rgba(112, 186, 255, 0.48177) 51.
     left: 0px;
     top: 114px;
     background:   rgba(112, 186, 255, 0.48177);
+    
 
 }
 .cabec-lista-item{
@@ -165,6 +166,6 @@ top: 810px;
 color:rgba(112, 186, 255, 0.07);
     
 position: absolute;
+background: linear-gradient(180deg, rgba(112, 186, 255, 0.07) 0%, rgba(112, 186, 255, 0.48177) 25.26%, #012379 100%);
 
-background: linear-gradient(180deg, rgba(112, 186, 255, 0.07) 0%, rgba(112, 186, 255, 0.48177) 51.82%, #012379 100%);
 }
