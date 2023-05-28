@@ -125,11 +125,13 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     padding: 24px 0;
 }
 .avataraluno{
-    width: 100px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    width: 80px;
 }
 
 .avataralunop{
-    width: 60px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    width: 70px;
 }
 .estudante-div{
     text-align: center;
